@@ -1,3 +1,5 @@
+Effecitve Date: 9/22/2024
+
 ### 1. Introduction
 
 Welcome to the Exposer Bot! We are committed to protecting your privacy and ensuring the safety of any information collected when you interact with our bot. This Privacy Policy explains what data we collect, how we use it, and your rights regarding that data.
